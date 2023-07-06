@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+psr:
+  config:
+    url: ${CONFIG_URL:https://api.publicapis.org/entries}
